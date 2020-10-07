@@ -1,1 +1,1 @@
-# DataStructure-Project
+# 2D Maze game
